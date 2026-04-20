@@ -51,7 +51,7 @@ car-dodge-game/
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/usually-dev/Car-Dodge-game.git
+   gh repo clone usually-dev/Car-Dodge-game
    ```
 
 2. Open the folder
