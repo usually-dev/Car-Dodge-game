@@ -20,7 +20,7 @@ A simple yet fun **2D car dodging game** built using **HTML, CSS, and JavaScript
 
 ## 🖥️ Live Demo
 
-👉 https://usually-dev.github.io/car-dodge-game/
+👉 https://github.com/usually-dev/Car-Dodge-game
 
 *(Replace with your actual GitHub Pages link)*
 
@@ -51,7 +51,7 @@ car-dodge-game/
 1. Download or clone the repository:
 
    ```
-   git clone https://github.com/usually-dev/car-dodge-game.git
+   git clone https://github.com/usually-dev/Car-Dodge-game.git
    ```
 
 2. Open the folder
